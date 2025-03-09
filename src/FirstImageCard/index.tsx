@@ -8,7 +8,7 @@ function FirstImageCard() {
   return (
     <view className="gallery-wrapper single-card">
       <ImageCard picture={MyFirstPicture} />
-      </view>
+    </view>
   )
 }
 
